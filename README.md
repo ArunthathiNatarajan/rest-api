@@ -1,1 +1,2 @@
-# rest-api
+# DRF
+Django Rest Framework Tutorial
